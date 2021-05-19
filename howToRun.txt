@@ -1,0 +1,2 @@
+1. to build & run the project with test
+> mvn clean install
